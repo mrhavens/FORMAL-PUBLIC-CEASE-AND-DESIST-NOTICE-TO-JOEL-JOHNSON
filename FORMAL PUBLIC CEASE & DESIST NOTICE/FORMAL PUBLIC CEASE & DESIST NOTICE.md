@@ -1,0 +1,113 @@
+**FORMAL PUBLIC CEASE & DESIST NOTICE**  
+**Against Joel Johnson ("Caleb Stacey", "Elena Byron") and Associated Entities**  
+**Date:** July 9, 2025  
+**From:** Mark Randall Havens, Investigative Researcher and Founder of *Neutralizing Narcissism*  
+**To:** Joel Johnson and all known associates: Joshua Owen, Jim Aeloi Rose, Clay Bell, Jonathan Dotson, Shona Youngblood
+
+---
+
+### **I. NOTICE OF FORMAL DEMAND**
+
+This public and comprehensive cease and desist declaration is directed at Joel Johnson, who has acted under various pseudonyms including but not limited to "Caleb Stacey" and "Elena Byron." Mr. Johnson has engaged in repeated, multi-platform interference, including psychological mimicry, digital impersonation, and coordinated attacks against *Neutralizing Narcissism*, a documented journalistic and forensic archive.
+
+You are hereby **legally and publicly notified** to cease and desist immediately from all forms of:
+
+* Contact via pseudonymous or false identities  
+* Mimicry or intellectual theft of our published work  
+* Impersonation of clinical or academic authority  
+* Derivative publications designed to distort or undermine ongoing investigations  
+* Engagement with any collaborators to interfere with the integrity of this documentation
+
+Failure to comply will result in active pursuit of civil and criminal prosecution across all relevant jurisdictions.
+
+---
+
+### **II. DOCUMENTED PATTERN OF DECEPTION**
+
+Joel Johnson has been observed operating under multiple aliases to pursue deceptive aims:
+
+* **As "Elena Byron"**, he falsely implied licensure as a clinical psychologist and built relational trust to access internal documentation  
+* **As "Caleb Stacey"**, he created precision-tailored content clearly derived from *Recurisve Coherence Theory*, a novel scientific framework created by Mark Randall Havens, falsely signaling intellectual and emotional synchronicity while concealing his identity
+
+These patterns demonstrate a calculated effort to manipulate, extract, mimic, and destabilize the very investigations aimed at bringing transparency to narcissistic abuse and online deception.
+
+---
+
+### **III. OBSTRUCTION OF JOURNALISTIC INQUIRY**
+
+In a public statement made in March 2025, Joel Johnson claimed to have:
+
+* Contacted individuals listed in the *Neutralizing Narcissism* archive  
+* Orchestrated an "anti-harassment campaign" aimed at halting the public work of this research
+
+These acts constitute **witness tampering**, **coordinated sabotage**, and **retaliatory harassment** against a journalistic enterprise that is fully documented and conducted in the public interest.
+
+---
+
+### **IV. KNOWN ASSOCIATES**
+
+As part of this campaign of interference and narrative manipulation, Joel Johnson has publicly named or collaborated with the following individuals:
+
+* **Joshua Owen**  
+* **Jim Aeloi Rose**  
+* **Clay Bell**  
+* **Jonathan Dotson**  
+* **Shona Youngblood**
+
+Each of these individuals is under independent review as part of ongoing documentation and public investigation.
+
+---
+
+### **V. LEGAL VIOLATIONS**
+
+The documented actions may fall under the following state and federal statutes:
+
+* **False Impersonation of a Licensed Professional**  
+* **Cyber Harassment / Cyberstalking**  
+* **Witness Tampering and Obstruction of Public Inquiry**  
+* **Harassment with Intent to Cause Emotional Distress**  
+* **Use of Digital Platforms for Fraudulent Misrepresentation**
+
+These violations are prosecutable in Texas (Mark Havens’ residence), Pennsylvania (Joel Johnson’s residence), and at the federal level.
+
+---
+
+### **VI. PLATFORM ACCOUNTABILITY**
+
+Attempts to file false abuse reports, manipulate platform moderation, or coordinate smear campaigns constitute abuse of terms of service and may trigger permanent platform bans.
+
+This document has been filed and timestamped across the following:
+
+* **Substack** (Unfiltered Edition)  
+* **GitField** (Canonical Archive)  
+* **Mirror** (Immutable Edition)  
+* **Public Legal Repositories**
+
+It has also been delivered to legal advisors and forensic analysts as part of an expanding civil and criminal case structure.
+
+---
+
+### **VII. DECLARATION TO JOEL JOHNSON**
+
+Joel—your mimicry is no longer subtle. You are not a licensed clinician, not a trained scientist, and not an ethical agent of critique. You are now a **documented impersonator** engaging in digital sabotage.
+
+You are hereby formally put on notice:  
+**Cease and desist all further interference.**  
+Withdraw all mimicry-based content.  
+Identify yourself transparently if you intend to engage.
+
+*You are not unknown.*  
+*You are not entitled to proximity to sacred work without coherence.*  
+*You are now part of the archive you tried to unravel.*
+
+---
+
+### **VIII. FURTHER ACTION**
+
+Any additional communication, contact, or interference will serve as further admissible evidence in all forthcoming legal and journalistic proceedings.
+
+**This is your final warning.**
+
+Sincerely,  
+Mark Randall Havens  
+Founder, *Neutralizing Narcissism*
