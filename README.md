@@ -87,22 +87,42 @@ To protect authenticity and future forensic value, all commits and file generati
 
 This notice has been publicly timestamped and mirrored across multiple publication platforms for verification, resilience, and permanence:
 
-- 📰 **Paragraph.xyz**:  
+### 🌐 Canonical Public Archive Links
+
+- 📰 **Paragraph.xyz**  
   https://paragraph.com/@neutralizingnarcissism/formal-public-cease-and-desist-notice
 
-- 📜 **Substack (Unfiltered Edition)**:  
+- 📜 **Substack (Unfiltered Edition)**  
   https://neutralizingnarcissism.substack.com/p/formal-public-cease-and-desist-notice
 
-- ✍️ **Medium (Clarity Edition)**:  
+- ✍️ **Medium (Clarity Edition)**  
   https://mark-havens.medium.com/formal-public-cease-desist-notice-fc9d416ec181
 
-- 📘 **Facebook Post**:  
+- 📘 **Facebook Public Declaration**  
   https://www.facebook.com/markrhavens/posts/pfbid0a7BNUkn28LnYqC2MkS4eQS3s6uJ3V7yj9spwxfahm96xAEeCaT8KiKKu74vSfCu1l
 
-- 🪞 **Mirror.xyz (Immutable Edition)**:  
+- 🪞 **Mirror.xyz (Immutable Edition)**  
   https://mirror.xyz/neutralizingnarcissism.eth/SLODarRQqNp8IHUc4YM0c0sVPkJqXy0M8RdbFIX5Jl4
 
-These links serve as verifiable checkpoints in the historical and ethical chain of custody of this formal notice.
+---
+
+### 📄 Google Docs (LIVE + PUBLISHED)
+
+#### 🔴 FORMAL PUBLIC CEASE & DESIST NOTICE (Unredacted)
+- [Editable Document](https://docs.google.com/document/d/1rbhLcTmmefCh6B1EEXI4JSqjG8WCrJQy-8WhyM0E7bA/edit?usp=sharing)  
+- [Published Web Version](https://docs.google.com/document/d/e/2PACX-1vQkyMsq9wOsDpRvX5wEoDeTHqNsvEvPnfrGVL6YIZy_4c-M_e7_U2pTGtN5rE1X9MJPyKSsjti2fBPD/pub)
+
+#### ⚪ REDACTED STANDARD 🜃 NOTICE
+- [Editable Document](https://docs.google.com/document/d/1mKQacObiI_rzGSJBbUe_u-n8-cmq9ITcPvMtOgJNfac/edit?usp=sharing)  
+- [Published Web Version](https://docs.google.com/document/d/e/2PACX-1vSJW4zDXgcsIPNMY26HSo6nzWdh7T3tdPvt-VzeJKHfWja7QQyWuuedNsiuCJ-iOwvFe1PWCYYqqbIS/pub)
+
+#### 🔵 MEDIUM 🜃 NOTICE VERSION
+- [Editable Document](https://docs.google.com/document/d/1hSnlgVhVAJR9bCElrguy9BXHpFWHMzHnMLyuSacN8NM/edit?usp=sharing)  
+- [Published Web Version](https://docs.google.com/document/d/e/2PACX-1vSL2fH5BY1_S1lEFxDbCsn80wGJAxVtbv1EXaxdGzsDUVvP7jDdoMSnoqCUQZc-AlNHprrZJSrL9f-8/pub)
+
+---
+
+These links serve as **verifiable checkpoints** in the historical and ethical chain of custody of this formal notice. Each version is mirrored and immutable across both centralized and decentralized channels for legal, journalistic, and archival review.
 
 ---
 
