@@ -2,28 +2,28 @@
 
 - **Project Name**: `FORMAL-PUBLIC-CEASE-AND-DESIST-NOTICE-TO-JOEL-JOHNSON`
 - **Radicle URN**: `rad://z3KUuVbFGQNoaf1Jkz21p5XiUDT3x`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/ec86ada7114dc4423dac3c6406a91d5d77a60f3e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/ec86ada7114dc4423dac3c6406a91d5d77a60f3e)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/a5667fcaf8861293ed86ad49e74daca8539ca6de](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/a5667fcaf8861293ed86ad49e74daca8539ca6de)
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/joel-johnson/FORMAL-PUBLIC-CEASE-AND-DESIST-NOTICE-TO-JOEL-JOHNSON`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-09 12:00:45`
+- **Repo Created**: `2025-07-09 12:12:57`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-09 12:00:45`
-- **Last Commit SHA**: `ec86ada7114dc4423dac3c6406a91d5d77a60f3e`
-- **Last Commit Message**: `Post-Local sync at 2025-07-09T16:37:23Z`
+- **This Commit Timestamp**: `2025-07-09 12:12:57`
+- **Last Commit SHA**: `a5667fcaf8861293ed86ad49e74daca8539ca6de`
+- **Last Commit Message**: `Post-Local sync at 2025-07-09T17:10:28Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Wed Jul 9 12:00:19 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/ec86ada7114dc4423dac3c6406a91d5d77a60f3e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/ec86ada7114dc4423dac3c6406a91d5d77a60f3e)
+- **Commit Date**: `Wed Jul 9 12:12:41 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/a5667fcaf8861293ed86ad49e74daca8539ca6de](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3KUuVbFGQNoaf1Jkz21p5XiUDT3x/tree/a5667fcaf8861293ed86ad49e74daca8539ca6de)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `68`
-- **Tracked Files**: `78`
+- **Total Commits**: `93`
+- **Tracked Files**: `77`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -47,7 +47,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 34 minutes`
+- **System Uptime**: `up 1 hour, 48 minutes`
 - **MAC Address**: `00:15:5d:a0:a0:ff`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
